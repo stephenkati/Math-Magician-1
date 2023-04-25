@@ -8,7 +8,9 @@
 }
 
 .calculator {
-  width: 400px;
+  width: 50%;
+  min-width: 300px;
+  max-width: 400px;
   background-color: #eee;
   display: flex;
   flex-wrap: wrap;
@@ -36,6 +38,7 @@
   background-color: grey;
   color: white;
   padding-right: 5px;
+  height: 20px;
 }
 
 .zero {
