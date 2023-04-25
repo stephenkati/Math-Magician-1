@@ -1,8 +1,10 @@
 .app {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
+  gap: 2em;
+  flex-wrap: wrap;
   width: 100vw;
   height: 100vh;
 }
@@ -47,4 +49,14 @@
 
 .orange {
   background-color: rgb(245, 131, 1);
+}
+
+.quote {
+  min-width: 300px;
+  width: 40%;
+}
+
+.author {
+  font-weight: 700;
+  color: black;
 }
