@@ -1,3 +1,27 @@
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 3em;
+}
+
+.navigation ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.link {
+  color: blue;
+  font-size: 18px;
+  padding: 0 1.5em;
+  margin: 0;
+}
+
+.calc {
+  border-left: 1.5px solid blue;
+  border-right: 1.5px solid blue;
+}
+
 .app {
   display: flex;
   flex-direction: row;
@@ -6,7 +30,7 @@
   gap: 2em;
   flex-wrap: wrap;
   width: 100vw;
-  height: 100vh;
+  height: 80vh;
 }
 
 .calculator {
@@ -54,9 +78,31 @@
 .quote {
   min-width: 300px;
   width: 40%;
+  font-size: 18px;
 }
 
 .author {
   font-weight: 700;
   color: black;
+}
+
+.cal {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100vw;
+  padding: 0 5em;
+}
+
+.math {
+  height: 100%;
+}
+
+.math-text {
+  height: 100%;
+}
+
+.homeContent p {
+  font-size: 22px;
+  font-weight: 600;
 }
