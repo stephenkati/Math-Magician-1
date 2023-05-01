@@ -175,11 +175,6 @@ You can run tests to check for linter errors by running the following commands:
 - `npx eslint "**/*.{js,jsx}"` for Javascript errors
 
 
-### Deployment
-
-The project is not yet deployed.
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHOR -->
