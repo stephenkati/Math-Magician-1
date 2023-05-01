@@ -44,8 +44,13 @@ const Buttons = () => {
 };
 
 const Calculator = () => (
-  <div className="calculator">
-    <Buttons />
+  <div className="cal">
+    <div className="math">
+      <h2 className="math-text">Let&apos;s do some math</h2>
+    </div>
+    <div className="calculator">
+      <Buttons />
+    </div>
   </div>
 );
 
