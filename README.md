@@ -106,13 +106,6 @@ After you're finished please remove all the comments and instructions!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](Not deployed yet)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 A new developer can get the project from my Github repo link i shall provide.
