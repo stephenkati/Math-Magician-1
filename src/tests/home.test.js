@@ -1,5 +1,5 @@
 import renderer from 'react-test-renderer';
-import Home from '../components/home';
+import Home from '../components/Home';
 
 describe('test for home', () => {
   test('test if home matches', () => {
