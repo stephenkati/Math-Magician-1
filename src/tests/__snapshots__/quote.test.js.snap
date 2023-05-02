@@ -1,7 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`test if quote matches snapshot test if quote is a match 1`] = `
-<div
-  className="quote"
-/>
-`;
