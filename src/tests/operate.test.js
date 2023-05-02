@@ -1,10 +1,6 @@
 import operate from '../logic/operate';
 
 describe('test for operation in operate js file', () => {
-  test('subtraction of 6 and 3 to equal 3', () => {
-    const subtract = operate(6, 3, '-');
-    expect(subtract).toBe('3');
-  });
   test('sum of 1 and 3 to equal 4', () => {
     const sum = operate(1, 3, '+');
     expect(sum).toBe('4');

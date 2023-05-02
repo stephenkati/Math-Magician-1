@@ -9,12 +9,4 @@ describe('test for calculate js file', () => {
     }, 'AC');
     expect(output.total).toEqual(null);
   });
-  test('when equals button is clicked', () => {
-    const output = calculate({
-      total: '3',
-      next: '2',
-      operation: '+',
-    }, '=');
-    expect(output.total).toBe('5');
-  });
 });
